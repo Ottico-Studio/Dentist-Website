@@ -1,7 +1,7 @@
 Responsive Dentist Landing Page Design with HTML, CSS and JavaScript.
 
 Main Features:
-✔ Responsive header section with navbar toggle using vanilla javascript.
+✔ Responsive header section with navbar toggle using vanilla javascript. <br/>
 ✔ Responsive home section with flexbox.
 ✔ Responsive about us section with flexbox.
 ✔ Responsive services section using grid.
