@@ -342,7 +342,7 @@
     <!-- Contact -->
     <section class="contact" id="contact">
 
-        <h1 class="heading"> Book your Appointment Today! </h1>
+        <h1 class="heading"> Book Today </h1>
 
         <form action="">
           <span> Your name: </span>
