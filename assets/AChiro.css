@@ -559,3 +559,29 @@ li { list-style: none; }
     .footer .credit span {
         color: var(--secondary);
     }
+
+
+
+
+
+
+
+
+
+/* =========== */
+/*  Responsive */
+@media (max-width: 991px) {
+
+  html {
+    font-size: 55%;
+  }
+
+  .header .btn {
+    display: none;
+  }
+
+  section {
+    padding: 2rem;
+  }
+
+}

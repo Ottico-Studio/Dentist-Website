@@ -7,10 +7,8 @@
 
     <!-- FontAwesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
-
 
   </head>
   <body>
@@ -280,7 +278,7 @@
           </div>
 
           <div class="content">
-            <a href="#" class="link"> Disease </a>
+            <a href="#" class="link"> Blog Post 1 </a>
             <div class="icons">
               <a href="#"> <i class="fas fa-calendar"></i> 04 Sept, 2022 </a>
               <a href="#"> <i class="fas fa-calender"></i> by admin </a>
@@ -300,9 +298,9 @@
           </div>
 
           <div class="content">
-            <a href="#" class="link"> Disease </a>
+            <a href="#" class="link"> Blog Post 2 </a>
             <div class="icons">
-              <a href="#"> <i class="fas fa-calendar"></i> 04 Sept, 2022 </a>
+              <a href="#"> <i class="fas fa-calendar"></i> 12 Dec, 2022 </a>
               <a href="#"> <i class="fas fa-calender"></i> by admin </a>
             </div>
 
@@ -320,9 +318,9 @@
           </div>
 
           <div class="content">
-            <a href="#" class="link"> Disease </a>
+            <a href="#" class="link"> Blog Post 3 </a>
             <div class="icons">
-              <a href="#"> <i class="fas fa-calendar"></i> 04 Nov, 2022 </a>
+              <a href="#"> <i class="fas fa-calendar"></i> Date </a>
               <a href="#"> <i class="fas fa-calender"></i> by admin </a>
             </div>
 
@@ -344,7 +342,7 @@
     <!-- Contact -->
     <section class="contact" id="contact">
 
-        <h1> Make Appointment </h1>
+        <h1 class="heading"> Book your Appointment Today! </h1>
 
         <form action="">
           <span> Your name: </span>
