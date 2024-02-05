@@ -1,4 +1,4 @@
-Responsive Dentist Landing Page Design using HTML, CSS and JavaScript.
+Responsive Dentist Landing Page Design in HTML, CSS and JavaScript
 --------------
 Main features:
 
